@@ -1,0 +1,92 @@
+body {
+    font-family: sans-serif;
+    background-color: white;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: ;
+    margin-bottom: 0px;
+    background-color:#98ED00 ;
+    
+}
+header img {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    border: 5px dashed aqua;
+    margin-left: 0px;
+}
+main {
+ background-color: #35C0CD;
+ margin-bottom: 5px;
+ 
+}
+main p {
+    background-color: #35C0CD;
+    text-align: left;
+    background-color: #C6F66F;
+}
+main img {
+    background-color: #C6F66F;
+    border-radius: 55px;
+    text-align: center;
+    margin-left: 100px;
+}
+ul{
+    color: yellow;
+}
+footer {
+text-align: left;
+color: tomato;
+background-color: yellow;
+}
+footer img{
+    background-color: yellowgreen;
+}
+h1{
+    background-color: turquoise;
+    width: 580px;
+    text-align: center;
+    font-size: 30px;
+    color: #ed009e;
+    padding-top: 44px;
+}
+p{
+   width:580px; 
+   padding-left: 5px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   padding-right: 5px;
+   border-radius: 10px;
+   border: 10px dotted darkturquoise;
+}
+h2{
+    font-size: 30px;
+    background-color: sandybrown;
+    width: 400px;
+    border-radius: 20px;
+    border:10px solid yellowgreen
+}
+h3{
+    font-size: 30px;
+    background-color: sandybrown;
+    width: 400px;
+    border-radius: 20px;
+    border:10px solid yellowgreen
+}
+h4{
+    font-size: 30px;
+    background-color: sandybrown;
+    width: 400px;
+    border-radius: 20px;
+    border:10px solid yellowgreen;
+}  
+h5{
+    font-size: 30px;
+    background-color: sandybrown;
+    width: 400px;
+    border-radius: 20px;
+    border:10px solid yellowgreen;  
+}
+
